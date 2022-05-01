@@ -719,26 +719,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: 1.5rem;
 }
 
-.mr-8{
-  margin-right: 2rem;
-}
-
-.mr-4{
-  margin-right: 1rem;
-}
-
-.mr-3{
-  margin-right: 0.75rem;
-}
-
-.mr-3\.5{
-  margin-right: 0.875rem;
-}
-
-.mr-\[20px\]{
-  margin-right: 20px;
-}
-
 .mr-\[10px\]{
   margin-right: 10px;
 }
@@ -837,10 +817,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-\[330px\]{
   width: 330px;
-}
-
-.w-\[600px\]{
-  width: 600px;
 }
 
 .max-w-full{
